@@ -1,4 +1,5 @@
 # rick
+See the [page](https://victoriaboyarkina.github.io/rick-morty/)
 
 ## Project setup
 ```
